@@ -1,0 +1,87 @@
+#about-page .top-banner {
+  height: 381px;
+  background: url("/static/img/about/1.jpg") center no-repeat; }
+  #about-page .top-banner > div {
+    margin: 0 auto;
+    width: 1000px;
+    color: #fff; }
+    #about-page .top-banner > div p {
+      padding-top: 50px;
+      font-size: 18px;
+      line-height: 33px;
+      text-indent: 36px; }
+    #about-page .top-banner > div p:first-child {
+      padding-top: 105px; }
+#about-page .office-wrap {
+  height: 758px;
+  background: url("/static/img/about/2.jpg") center no-repeat; }
+  #about-page .office-wrap > div {
+    margin: 0 auto;
+    width: 1000px;
+    color: #fff;
+    text-align: center; }
+    #about-page .office-wrap > div h2 {
+      padding-top: 40px;
+      font-size: 20px;
+      font-weight: bold; }
+      #about-page .office-wrap > div h2 > span {
+        font-size: 28px; }
+    #about-page .office-wrap > div p {
+      padding-top: 20px;
+      padding-bottom: 40px;
+      font-size: 18px; }
+    #about-page .office-wrap > div > img {
+      margin-bottom: 20px; }
+#about-page .act-wrap {
+  height: 715px;
+  background: url("/static/img/about/4.jpg") center no-repeat; }
+  #about-page .act-wrap > div {
+    margin: 0 auto;
+    padding-top: 30px;
+    width: 1000px; }
+    #about-page .act-wrap > div h2 {
+      font-size: 30px;
+      margin-bottom: 55px;
+      color: #4c4c4c;
+      text-align: center; }
+    #about-page .act-wrap > div > div {
+      margin: 0 auto;
+      width: 1000px;
+      height: 533px; }
+      #about-page .act-wrap > div > div > a {
+        position: absolute;
+        display: block;
+        opacity: .8;
+        transition: opacity .5s;
+        -webkit-transition: opacity .5s;
+        background: url("/static/img/about/5.jpg") no-repeat; }
+        #about-page .act-wrap > div > div > a:hover {
+          opacity: 1; }
+      #about-page .act-wrap > div > div .pic1 {
+        width: 433px;
+        height: 253px; }
+      #about-page .act-wrap > div > div .pic2 {
+        margin-top: 256px;
+        width: 433px;
+        height: 277px;
+        background-position: 0 -256px; }
+      #about-page .act-wrap > div > div .pic3 {
+        margin-left: 437px;
+        width: 299px;
+        height: 145px;
+        background-position: -437px 0; }
+      #about-page .act-wrap > div > div .pic4 {
+        margin: 149px 0 0 437px;
+        width: 299px;
+        height: 384px;
+        background-position: -437px -149px; }
+      #about-page .act-wrap > div > div .pic5 {
+        margin-left: 740px;
+        width: 260px;
+        height: 268px;
+        background-position: -740px 0; }
+      #about-page .act-wrap > div > div .pic6 {
+        margin: 272px 0 0 740px;
+        width: 260px;
+        height: 261px;
+        background-position: -740px -272px; }
