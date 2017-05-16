@@ -52,11 +52,11 @@ var pageRouterOption = [
     },
     {
         path: '/',
-        redirect: 'home'
+        redirect: 'list'
     },
     {
         path: '*',
-        redirect: 'home'
+        redirect: 'list'
     }
 ]
 
