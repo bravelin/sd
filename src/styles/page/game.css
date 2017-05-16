@@ -21,9 +21,10 @@
       position: absolute;
       background-size: 48px 48px;
       bottom: 4px;
-      left: 0; }
+      left: 0;
+      border-radius: 6px; }
     #game-page .list h3.m1:before {
-      background-image: url("/static/img/game/ico1.png"); }
+      background-image: url("/static/img/game/ico1.jpg"); }
     #game-page .list h3.m2:before {
       background-image: url("/static/img/game/ico2.png"); }
   #game-page .list ul li {
@@ -61,3 +62,16 @@
     background-image: url("/static/img/game/h3.jpg"); }
   #game-page .list ul.m2 > li:nth-of-type(4) {
     background-image: url("/static/img/game/h4.jpg"); }
+  #game-page .list h4 {
+    font-weight: bold;
+    color: #4d4d4d;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    line-height: 2.0; }
+    #game-page .list h4.m {
+      margin-top: 8px; }
+  #game-page .list > img {
+    display: block;
+    width: 500px;
+    height: 300px;
+    margin: 10px auto 0; }

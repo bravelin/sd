@@ -5,7 +5,7 @@
     <div id="about-page" class="page-section">
         <div class="top-banner">
             <div>
-                <p>中新石豆成立于2011年，公司研发团队核心成员来自百度、Oracle、TP-LINK、腾讯等优秀互联网IT公司，拥有强大的技术实力和产品运力。</p>
+                <p>深圳市中新石豆传媒技术有限公司（以下简称“中新石豆”）隶属于深圳市石豆软件技术有限公司控股子公司，于2014年独立出来，是一家专业从事互联网技术开发及运营的互联网企业，总部位于广东省深圳市。</p><p>公司业务以互联网平台运营为主，旗下包含手机游戏运营，软件分发等项目。并与百度、腾讯、奇虎360、搜狐、网易等众多著名企业有着密切的合作关系。公司项目年分发量近亿次，为大量的用户方便、高效、快捷的平台服务。</p>
             </div>
         </div>
         <div class="office-wrap">
@@ -24,6 +24,6 @@
                 </div>
             </div>
         </div>
-        <div class="footer-wrap">Copyright © 2017 中新石豆</div>
+        <div class="footer-wrap">Copyright © 2017 中新石豆传媒技术有限公司<a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备17041476号</a></div>
     </div>
 </template>

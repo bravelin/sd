@@ -4,7 +4,6 @@ var gulp = require('gulp'),
     connect = require('gulp-connect'),
     concat = require('gulp-concat'),
   autoprefixer = require('gulp-autoprefixer');
-
 var raw_css = 'src/sass',
     com_css = 'src/styles';
 

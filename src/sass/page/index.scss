@@ -1,5 +1,4 @@
 @import "../common/common.scss";
-@import '../common/video.scss';
 
 .menu-wrap{
   width : 100%;
@@ -75,4 +74,10 @@
   color: #fff;
   font-size: 14px;
   text-align: center;
+  >a{
+    margin-left: 10px;
+    &:hover{
+      text-decoration: underline;
+    }
+  }
 }

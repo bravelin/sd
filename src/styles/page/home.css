@@ -20,7 +20,7 @@
     top: 50%; }
     #home-page .wrap > h1 {
       height: 48px;
-      width: 350px;
+      width: 200px;
       border-top: 2px solid #ffffff;
       border-bottom: 2px solid #ffffff;
       font-size: 35px;
@@ -72,7 +72,7 @@
           margin-bottom: 8px; }
         #home-page .wrap > div > div:nth-of-type(1) {
           background-size: 312px 215px;
-          background-image: url("/static/img/home/1.png");
+          background-image: url("/static/img/home/4.png");
           background-repeat: no-repeat; }
         #home-page .wrap > div > div:nth-of-type(2) {
           background-color: #d73240;
@@ -80,7 +80,7 @@
           text-align: center;
           position: relative; }
           #home-page .wrap > div > div:nth-of-type(2) > h2 {
-            margin-top: 45px;
+            margin-top: 15px;
             font-size: 22px; }
           #home-page .wrap > div > div:nth-of-type(2) > h3 {
             margin-top: 15px;
@@ -121,17 +121,17 @@
               cursor: pointer; }
         #home-page .wrap > div > div:nth-of-type(3) {
           background-size: 312px 215px;
-          background-image: url("/static/img/home/3.jpg");
+          background-image: url("/static/img/home/5.png");
           background-repeat: no-repeat; }
         #home-page .wrap > div > div:nth-of-type(4) {
           background-size: 312px 215px;
-          background-image: url("/static/img/home/4.jpg");
+          background-image: url("/static/img/home/3.png");
           background-repeat: no-repeat; }
         #home-page .wrap > div > div:nth-of-type(5) {
           background-size: 312px 215px;
-          background-image: url("/static/img/home/5.jpg");
+          background-image: url("/static/img/home/2.png");
           background-repeat: no-repeat; }
         #home-page .wrap > div > div:nth-of-type(6) {
           background-size: 312px 215px;
-          background-image: url("/static/img/home/6.jpg");
+          background-image: url("/static/img/home/1.png");
           background-repeat: no-repeat; }
