@@ -16,6 +16,20 @@ var pageRouterOption = [
         }
     },
     {
+        path: '/list',
+        name: 'list',
+        component: function (resolve) {
+            require(['./pages/list.vue'], resolve)
+        }
+    },
+    {
+        path: '/music',
+        name: 'music',
+        component: function (resolve) {
+            require(['./pages/music.vue'], resolve)
+        }
+    },
+    {
         path: '/game',
         name: 'game',
         component: function (resolve) {

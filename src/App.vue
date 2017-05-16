@@ -10,9 +10,8 @@
                     <h3>连接伙伴 共享未来</h3>
                 </div>
                 <ul>
-                    <router-link :to="{name: 'home'}" tag="li"><a>首页</a></router-link>
-                    <router-link :to="{name: 'game'}" tag="li"><a>游戏</a></router-link>
-                    <router-link :to="{name: 'video'}" tag="li"><a>视频</a></router-link>
+                    <router-link :to="{name: 'list'}" tag="li"><a>游戏</a></router-link>
+                    <router-link :to="{name: 'music'}" tag="li"><a>音乐娱乐</a></router-link>
                     <router-link :to="{name: 'about'}" tag="li"><a>关于我们</a></router-link>
                 </ul>
             </div>
