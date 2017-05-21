@@ -11,7 +11,7 @@
                 </div>
                 <ul>
                     <router-link :to="{name: 'list'}" tag="li"><a>游戏</a></router-link>
-                    <router-link :to="{name: 'music'}" tag="li"><a>音乐娱乐</a></router-link>
+                    <router-link :to="{name: 'music'}" tag="li"><a>音乐</a></router-link>
                     <router-link :to="{name: 'about'}" tag="li"><a>关于我们</a></router-link>
                 </ul>
             </div>
